@@ -1,0 +1,1 @@
+The Odin Project first project called Recipes which is a basic website to practice basic html and will display different recipes. The skills this project shows are basic HTML including elements and tags, working with text, lists, links and images, and git basics.
